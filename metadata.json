@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LinguistAI: Learn as You Translate",
+  "description": "An intelligent translation platform that doesn't just convert text, but teaches grammar, cultural nuances, and native phrasing using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
