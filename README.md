@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-To view the app: https://copy-of-linguistai-learn-as-you-translate-535479696297.us-west1.run.app
+To view the app: https://linguist-ai-nu.vercel.app
 
 ## Run Locally
 
