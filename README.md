@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/16ZWmacWII_FdS7r8vnjjmaBrcrXfA3Sf
+To view the app: https://copy-of-linguistai-learn-as-you-translate-535479696297.us-west1.run.app
 
 ## Run Locally
 
